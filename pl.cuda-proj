@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    "{ProjDir}"
+  ],
+  "vars": [],
+  "mainfile": "",
+  "unfold": [
+    "/home/admin/plk.net/pl",
+    "/home/admin/plk.net/pl/matrix",
+    "/home/admin/plk.net/pl/matrix/gnu",
+    "/home/admin/plk.net/pl/matrix/gnu/bin"
+  ]
+}
